@@ -20,7 +20,7 @@ let DB = [
     {
         id: 2,
         description: "Update the manager on project progress",
-        priorityLevel: "Medium"
+        priorityLevel: "treated"
     },
     {
         id: 3,
